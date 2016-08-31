@@ -97,7 +97,7 @@
 
 **工程之美**
 
-[http://114.215.170.84:1947/?src=software_eg](http://www.unicoforce.com:1947/?src=software_eg "点击查看")
+<a href="http://114.215.170.84:1947/?src=software_eg" target="_blank">点击阅读</a>
 
 
 
